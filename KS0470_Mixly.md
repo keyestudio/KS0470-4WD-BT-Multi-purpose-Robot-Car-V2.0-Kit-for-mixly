@@ -281,6 +281,10 @@ the lessons will guide you to assemble robot car and absorb the knowledge of
 electronic and machinery step by step. I reckon that you could hardly sit still
 and itch to have a go, let’s get started.
 
+**If you want to go directly to the step of installing the robot, please click this link**
+
+[assembly-guide](https://ks0470-4wd-bt-multi-purpose-robot-car-v20-kit-for-mixly.readthedocs.io/en/latest/KS0470_Mixly.html#assembly-guide)
+
 Note: (G), marked on each sensor and module, implies negative pole, which is
 connected to “G”, ”-”or “GND”on the sensor shield and control board ; (V)
 represents positive pole, which is linked with V , VCC, + or 5V on the sensor
